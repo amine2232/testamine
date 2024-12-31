@@ -83,7 +83,7 @@ export function AssistantsPage() {
         </div>
         <div className="relative w-80 h-80">
           <Image
-            src="/assistant-illustration.svg"
+            src="https://img.zuzz.tv/assets/chatbot.png"
             alt="Assistant Illustration"
             fill
             className="object-contain"
