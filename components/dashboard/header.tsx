@@ -8,7 +8,7 @@ import { TrialProgress } from "./trial-progress";
 export function Header() {
   return (
     <header className="h-16 border-b border-gray-200 bg-white px-6 flex items-center justify-between">
-      <h1 className="text-lg font-semibold">Dashboard</h1>
+      <h1 className="text-lg font-semibold">ASSISTANTS</h1>
       
       <div className="flex items-center space-x-6">
         <TrialProgress />
